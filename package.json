@@ -1,0 +1,26 @@
+{
+  "name": "pluang-token",
+  "version": "1.0.0",
+  "description": "ERC20 Token of Pluang on Ethereum Blockchain.",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantPluang/pluang-token.git"
+  },
+  "keywords": [],
+  "author": "Prashant Chand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashantPluang/pluang-token/issues"
+  },
+  "homepage": "https://github.com/prashantPluang/pluang-token#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
